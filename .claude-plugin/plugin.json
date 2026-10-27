@@ -1,0 +1,16 @@
+{
+  "name": "grill-the-plan",
+  "version": "0.1.0",
+  "description": "Walks a spec or plan one question at a time, updating the glossary and drafting ADRs as decisions are made.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/grill-the-plan",
+  "repository": "https://github.com/nvv-dev/grill-the-plan",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
